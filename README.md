@@ -1,1 +1,1 @@
-Git collaboration practices 
+Git collaboration practice by Nunush
