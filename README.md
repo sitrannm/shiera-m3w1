@@ -1,1 +1,1 @@
-Git collaboration practice by Nunush
+Git collaboration practice by Nunush and Friend
